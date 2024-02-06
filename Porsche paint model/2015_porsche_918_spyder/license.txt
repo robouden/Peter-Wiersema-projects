@@ -1,0 +1,11 @@
+Model Information:
+* title:	2015 Porsche 918 Spyder
+* source:	https://sketchfab.com/3d-models/2015-porsche-918-spyder-9056c9127b864193978ab5033439d5c7
+* author:	RBLXSupercars (https://sketchfab.com/RBLXSupercars)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2015 Porsche 918 Spyder" (https://sketchfab.com/3d-models/2015-porsche-918-spyder-9056c9127b864193978ab5033439d5c7) by RBLXSupercars (https://sketchfab.com/RBLXSupercars) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

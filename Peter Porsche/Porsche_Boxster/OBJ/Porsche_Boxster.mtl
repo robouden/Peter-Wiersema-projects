@@ -1,0 +1,127 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  2.1.12.1218
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl wheel
+Ka 0 0 0
+Kd 0.0736562 0.0736562 0.0736562
+Ks 0.0205767 0.0205767 0.0205767
+illum 2
+Ns 9.84916
+map_bump tire.jpg
+bump tire.jpg
+
+newmtl base_mat
+Ka 0 0 0
+Kd 0.653503 0.171657 0.159611
+Ks 0.399961 0.105059 0.0976863
+illum 2
+Ns 87.4266
+
+newmtl metal
+Ka 0 0 0
+Kd 0.171824 0.171824 0.171824
+Ks 0.283384 0.283384 0.283384
+illum 2
+Ns 30.91
+
+newmtl interior
+Ka 0 0 0
+Kd 0.380392 0.380392 0.380392
+Ks 0.00684706 0.00684706 0.00684706
+illum 2
+Ns 11.3137
+
+newmtl black
+Ka 0 0 0
+Kd 0.211765 0.211765 0.211765
+Ks 0.146753 0.146753 0.146753
+illum 2
+Ns 11.3137
+
+newmtl _3
+Ka 0 0 0
+Kd 0.584314 0.584314 0.584314
+Ks 0.044902 0.044902 0.044902
+illum 2
+Ns 4
+
+newmtl Material__12
+Ka 0 0 0
+Kd 0.603922 0.603922 0.603922
+Ks 0.837 0.837 0.837
+illum 2
+Ns 11.3137
+
+newmtl headlights_metallic
+Ka 0 0 0
+Kd 0.302351 0.302351 0.302351
+Ks 0.439588 0.439588 0.439588
+illum 2
+Ns 207.937
+
+newmtl Material__68
+Ka 0 0 0
+Kd 0.223529 0.223529 0.223529
+Ks 0.044902 0.044902 0.044902
+illum 2
+Ns 4
+
+newmtl logo
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.378 0.378 0.378
+illum 2
+Ns 11.3137
+map_Kd logo.jpg
+
+newmtl baclight_right
+Ka 0 0 0
+Kd 1 0.141176 0.00392157
+Ks 0.8 0.112941 0.00313726
+illum 2
+Ns 8
+map_Kd backlight_color.jpg
+
+newmtl ftontlights
+Ka 0 0 0
+Kd 0.811765 0.811765 0.811765
+Ks 0.649412 0.649412 0.649412
+illum 2
+Ns 8
+
+newmtl tire
+Ka 0 0 0
+Kd 0.0736562 0.0736562 0.0736562
+Ks 0.0205767 0.0205767 0.0205767
+illum 2
+Ns 9.84916
+map_bump tire.jpg
+bump tire.jpg
+
+newmtl glass
+Ka 0 0 0
+Kd 0.691765 0.753255 0.787843
+Ks 0.603529 0.657176 0.687353
+illum 2
+Ns 66.257
+
+newmtl fuel_door
+Ka 0 0 0
+Kd 0.653503 0.171657 0.159611
+Ks 0.399961 0.105059 0.0976863
+illum 2
+Ns 87.4266
+map_bump bump_fuel.jpg
+bump bump_fuel.jpg
+
+newmtl baclight_left
+Ka 0 0 0
+Kd 1 0.141176 0.00392157
+Ks 0.8 0.112941 0.00313726
+illum 2
+Ns 8
+map_Kd backlight_color.jpg

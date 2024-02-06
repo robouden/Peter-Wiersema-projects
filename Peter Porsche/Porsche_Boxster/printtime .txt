@@ -1,0 +1,5 @@
+image_time is 0.5rising_time is 5
+down_time is 3.54167
+bottmLayerTime is 294.25
+normalTime is 1313.96
+ALL Time is 1608
