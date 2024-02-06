@@ -1,0 +1,11 @@
+Model Information:
+* title:	Porsche 918 Scale1-60 for 3D-printing
+* source:	https://sketchfab.com/3d-models/porsche-918-scale1-60-for-3d-printing-7ac872eab5414871bb3cd1458b923e57
+* author:	fishermans garage (https://sketchfab.com/fishermans)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Porsche 918 Scale1-60 for 3D-printing" (https://sketchfab.com/3d-models/porsche-918-scale1-60-for-3d-printing-7ac872eab5414871bb3cd1458b923e57) by fishermans garage (https://sketchfab.com/fishermans) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
